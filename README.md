@@ -47,7 +47,9 @@ This function:
 
 #### Step: 6
 Create an `advanceRound()` function. This function will be used to update the round number after each round.
+
 `advanceRound()` should increase the value of `currentRoundNumber` by 1.
+
 After completing `advanceRound()`, your Number Guesser game should be fully operational. You should be able to make guesses, see your or the computer score increase correctly, move to the next round, and see the correct round displayed.
 
 ### Project Extensions & Solution
